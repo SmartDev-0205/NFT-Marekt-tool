@@ -1,0 +1,8 @@
+/deals gooney_toons gooneytoons
+/deals -a 100 0.5 2.5
+/sellers solgods
+/buyers gooney_toons
+/attribute_count_floors solgods
+/attribute_count_floors solgods solgods
+/attribute_count_listings solgods 3
+/scan 8vU6RfyFDk9WriVgaJohBxqtE86TLtjAR8cPWjdU6zEN gooney_toons
